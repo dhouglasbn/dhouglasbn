@@ -30,7 +30,7 @@ Currently diving deeper into backend API development and modern front-end archit
 ---
 
 ## 📌 Featured Projects
-- [**My Portfolio**](https://dhouglasbn.github.io/personal-website/) – ReactJS personal portfolio  
+- [**My Portfolio**](https://dhouglasbn.github.io/personal-website/) – My personal website builded with ReactJS + Vite  
 
 ---
 
