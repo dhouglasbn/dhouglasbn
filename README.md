@@ -30,13 +30,15 @@ Currently diving deeper into backend API development and modern front-end archit
 ---
 
 ## 📌 Featured Projects
-- [**My Portfolio**](https://github.com/dhouglasbn/portfolio) – ReactJS personal portfolio  
+- [**My Portfolio**](https://dhouglasbn.github.io/personal-website/) – ReactJS personal portfolio  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhouglasbn&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhouglasbn&layout=compact&theme=tokyonight)
+<div style="display: flex; justify-content: center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhouglasbn&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhouglasbn&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
+</div>
 
 ---
