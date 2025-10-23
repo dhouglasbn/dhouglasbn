@@ -1,6 +1,6 @@
 # Hi there, I'm Dhouglas 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Dhouglas%20Bandeira-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhouglas-bandeira-56b302119/)](https://www.linkedin.com/in/dhouglas-bandeira-56b302119/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Dhouglas%20Bandeira-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhouglas-bandeira/)](www.linkedin.com/in/dhouglas-bandeira) 
 [![Gmail Badge](https://img.shields.io/badge/-dhouglasbn@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhouglasbn@gmail.com)](mailto:dhouglasbn@gmail.com)
 
 
